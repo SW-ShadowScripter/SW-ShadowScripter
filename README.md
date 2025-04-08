@@ -2,23 +2,23 @@
 <h3 align="center">Cybersecurity Enthusiast | Tech Community Builder | Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Ethical+Hacking;Linux+%7C+Networking+%7C+Assembly;Student+Chapter+Leader+at+Null+BVDU;Learning+Every+Single+Day+🚀" alt="Typing SVG" />
+ 
 </p>
 
 ---
 
-- 🔐 Currently diving into **Cybersecurity Fundamentals**, **Linux**, **Networking**, and **Offensive Security**
-- 🚀 Founder & Vice President of **Null Community (BVDU Chapter)**
-- 💻 I love organizing events, workshops, and ethical hacking programs in my college
-- 📚 Passionate about learning tools like **Nmap**, **Burp Suite**, **Wireshark**, **Metasploit**, etc.
-- ✨ Goal: Build my own book covering all major hacking concepts
+- 📚 Currently learning **Cybersecurity Fundamentals**, **Linux**, and **Networking Basics**
+- 💻 Comfortable with **Python**, **C++**, **HTML/CSS**, and **GitHub**
+- 🚀 Leading **Null Community BVDU** and organizing workshops/events
+- ✨ Goal: Build a strong foundation in cybersecurity & practical skills
+- 🛠️ Creating a beginner-friendly **Cybersecurity Handbook**
 
 ---
 
-## 🛠️ Tech & Tools:
+## 🛠️ Skills & Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=linux,python,github,cpp,html,css" />
 </p>
 
 ---
@@ -43,10 +43,4 @@
 
 ## 💬 Quote of the Day
 
-> “Hack the planet, but ethically.” 💻🌐  
-
-
-<!---
-SW-ShadowScripter/SW-ShadowScripter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Cybersecurity starts with curiosity.” 🔐🧠  
