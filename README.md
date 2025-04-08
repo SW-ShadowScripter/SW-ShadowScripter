@@ -1,9 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Shubham Waghmare</h1>
 <h3 align="center">Cybersecurity Enthusiast | Tech Community Builder | Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Linux+%7C+Python+%7C+C%2B%2B;Student+Chapter+Leader+at+Null+BVDU;Learning+Every+Single+Day+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
