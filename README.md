@@ -7,7 +7,6 @@
 
 - 📚 Currently learning **Cybersecurity Fundamentals**, **Linux**, and **Networking Basics**
 - 💻 Comfortable with **Python**, **C++**, **HTML/CSS**, and **GitHub**
-- 🚀 Leading **Null Community BVDU** and organizing workshops/events
 - ✨ Goal: Build a strong foundation in cybersecurity & practical skills
 - 🛠️ Creating a beginner-friendly **Cybersecurity Handbook**
 
