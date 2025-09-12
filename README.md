@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;MERN+Stack+Developer;Computer+Networks+Explorer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Expert;MERN+Stack+Developer;Computer+Networks+Explorer;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <p align="center">
