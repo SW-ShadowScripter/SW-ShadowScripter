@@ -1,4 +1,4 @@
-# 👋
+# SHUBHAM
 
 <div align="center">
 
@@ -11,126 +11,126 @@
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
+**Cybersecurity Expert | Full-Stack Developer | Network Security Specialist**
+
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" height="250"/>
-</p>
+---
 
-## 🚀
+## OVERVIEW
 
-- 🔭 Full-stack & cybersecurity projects
-- 🌱 Advanced penetration testing & cloud security
-- 👯 Open source security tools & web applications
-- 🤔 Advanced network security implementations
-- 💬 MERN stack | cybersecurity | competitive programming
-- 📫 Connect through profiles below
-- ⚡ Debug by day, hunt vulnerabilities by night! 🕵️‍♂️
+Full-stack web developer specializing in cybersecurity and network security implementations. Experienced in MERN stack development with expertise in penetration testing and vulnerability assessment.
+
+**Focus Areas:** Web Application Security | Network Protocols | Competitive Programming
 
 ---
 
-## 🛠️
+## TECHNICAL STACK
 
-### 💻
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-### 🌐 MERN
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+### Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
-### 🔧
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+### Development Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ" width="40" height="40"/>
 </p>
 
-### 🔒
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Network_Security-FF6B35?style=for-the-badge&logo=shield&logoColor=white" alt="Network Security"/>
+### Security & Systems
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
 ---
 
-## 🎯
+## PLATFORMS
 
-<div align="center">
+<div align="left">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/shubhamwD/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shubham_w01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/shubhamwD/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shubham_w01)
 
 </div>
 
 ---
 
-## 📊
+## STATISTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SW-ShadowScripter&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SW-ShadowScripter&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Statistics" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-ShadowScripter&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-ShadowScripter&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SW-ShadowScripter&theme=radical&hide_border=true" alt="Streak" />
-</div>
-
----
-
-## 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SW-ShadowScripter&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SW-ShadowScripter&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="Contribution Streak" />
 </div>
 
 ---
 
-## 🎨
+## ACHIEVEMENTS
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SW-ShadowScripter&theme=redical&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SW-ShadowScripter&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🌟
-
-- 🔐 Penetration Testing | Vulnerability Assessment | Network Security
-- 🌐 Full-stack MERN applications
-- 🖧 TCP/IP | Network Protocols | Security Architecture
-- 🏆 Data Structures | Algorithms | Problem Solving
-- 🐧 System Administration | Shell Scripting | Security Hardening
-
----
-
-## 📈
+## ACTIVITY
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SW-ShadowScripter&label=Views&color=0e75b6&style=for-the-badge" alt="Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SW-ShadowScripter&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Activity" />
 </div>
 
 ---
 
-<div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+## SPECIALIZATIONS
 
-**🚀**
+**Cybersecurity**
+- Penetration Testing
+- Vulnerability Assessment  
+- Network Security Architecture
+
+**Web Development**
+- Full-stack MERN Applications
+- RESTful API Development
+- Database Design & Optimization
+
+**System Administration**
+- Linux System Management
+- Shell Scripting & Automation
+- Security Hardening
+
+**Competitive Programming**
+- Data Structures & Algorithms
+- Problem Solving Optimization
+- Contest Participation
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SW-ShadowScripter&label=Profile%20Views&color=58a6ff&style=flat-square)
+
+**Professional Developer | Security Researcher | Problem Solver**
 
 </div>
