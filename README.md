@@ -62,16 +62,11 @@ I build small tools, practice CTFs & TryHackMe labs, and work on projects that c
 
 ---
 
-## 🧾 Certifications & Badges
-*(Add any certs or badges here — e.g., TryHackMe learning paths or other certs when you earn them.)*
-
----
-
 ## 📫 Contact & Socials
 - GitHub: `github.com/SW-ShadowScripter`  
 - LinkedIn: [Shubham W](https://www.linkedin.com/in/shubham-w-4665b1205)  
 - TryHackMe: https://tryhackme.com/p/cypherxx  
-- Email: (add your email here if you want it visible)
+
 
 ---
 
