@@ -129,7 +129,7 @@ I build small tools, practice **CTFs & TryHackMe labs**, and work on projects th
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Think+like+a+hacker;Act+like+a+defender;Build+secure+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Think+like+a+Manipulator;Act+like+a+defender;Build+secure+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
