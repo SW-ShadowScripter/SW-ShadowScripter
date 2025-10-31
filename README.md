@@ -1,15 +1,9 @@
-<!-- =========================
-     GitHub Profile README
-     For: Shubham (SW-ShadowScripter)
-     Vibe: Mix — Clean + Hacker aesthetic
-   ========================= -->
 
-<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SW-ShadowScripter/SW-ShadowScripter/main/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham <sub><sup>(SW-ShadowScripter)</sup></sub></h1>
+<h1 align="center">Hi, I'm Shubham <sub><sup>(SW-ShadowScripter)</sup></sub></h1>
 <p align="center">
   <em>Think like a hacker, act like a defender — learning, automating & building secure systems.</em>
 </p>
@@ -38,13 +32,6 @@ I build small tools, practice CTFs & TryHackMe labs, and work on projects that c
 
 **Other**
 - GitHub · VirtualBox · SIEM Tools
-
----
-
-## 💼 Notable Projects (add links to repos if available)
-- **CyberGPT** — An experimental Python GUI for threat monitoring & packet analysis (local research & learning project).  
-- **AI + Blockchain Tamper-Proof Cyber Threat Detection** — Project idea combining AI models with blockchain for immutable threat logging & media forensics (deepfake/malware/log analysis).  
-- (Add repo links here once pushed — I’ll format them for you.)
 
 ---
 
