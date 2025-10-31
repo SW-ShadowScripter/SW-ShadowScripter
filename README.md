@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SW-ShadowScripter/SW-ShadowScripter/main/banner.png" alt="banner" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Shubham <sub><sup></sup></sub></h1>
 <p align="center">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SW-ShadowScripter&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
