@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/SW-ShadowScripter/SW-ShadowScripter/main/banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham <sub><sup>(SW-ShadowScripter)</sup></sub></h1>
+<h1 align="center">Hi 👋, I'm Shubham <sub><sup></sup></sub></h1>
 <p align="center">
-  <em>Think like a hacker, act like a defender — learning, automating & building secure systems.</em>
 </p>
 
 <p align="center">
